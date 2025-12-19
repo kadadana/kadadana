@@ -60,6 +60,6 @@ I enjoy working close to the system level — building backend services, managin
 ## 📫 Contact
 
 📧 Email: *kadiryilmaz0136@gmail.com*  
-💼 LinkedIn: https://www.linkedin.com/in/kadir-yilmaz-302693218/
+💼 LinkedIn: https://www.linkedin.com/in/kadir-yilmaz-302693218
 📍 Location: Türkiye
 
