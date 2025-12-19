@@ -23,6 +23,7 @@ I enjoy working close to the system level — building backend services, managin
 - **PostgreSQL**
 - **Linux**
 - **Docker**
+- **Node.js**
 - **Windows Server (Active Directory)**
 - **Git**
 - **MongoDB**
