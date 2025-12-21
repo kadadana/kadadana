@@ -9,6 +9,7 @@ I enjoy working close to the system level — building backend services, managin
 ## 🧭 Areas of Interest
 
 - Backend Development
+- Web Development
 - DevOps Fundamentals
 - System-Level Programming
 - Database Design & Management
