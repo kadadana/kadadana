@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kadir (@kadadana)
+#  Hi, I'm Kadir (@kadadana)
 
 I'm a **Computer Engineering student** with a strong focus on **Backend Development** and **DevOps-oriented systems**.
 
@@ -6,50 +6,48 @@ I enjoy working close to the system level — building backend services, managin
 
 ---
 
-## 🧭 Areas of Interest
+##  Areas of Interest
 
 - Backend Development
 - Web Development
 - DevOps Fundamentals
-- System-Level Programming
+- System Design & Architecture
 - Database Design & Management
-- Service-Based Architectures
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
-### 🔰 Entry-Level
-- **C++**
-- **PostgreSQL**
-- **Linux**
+- **.NET Core**
+- **Java Spring Boot**
+- **Ubuntu/Debian**
+- **Windows OS**
 - **Docker**
+- **PostgreSQL**
 - **Node.js**
-- **Windows Server (Active Directory)**
+- **Nest.js**
+- **Flutter**
+- **React**
 - **Git**
+- **Jenkins**
+- **Redis**
 - **MongoDB**
 
-### 🚀 Intermediate-Level
-- **C#**
-- **ASP.NET / .NET Core**
-- **Windows OS**
-- **Microsoft SQL Server (MSSQL)**
-- **Java**
-
 ---
 
-## 🛠️ Engineering Stack
+##  Engineering Stack
 
-- Backend development with **.NET & Java**
+- Backend development with **.NET Core & Spring Boot**
 - RESTful APIs
 - Relational & NoSQL databases
-- Windows-based services & background workers
-- Containerization & basic CI/CD concepts
+- Services & background workers
+- Containerization & basic CI/CD concepts with Docker, Jenkins & GitHub Actions
 - Version control with Git
+- Microservices & Modular Monolith Architectures
 
 ---
 
-## 🌱 Currently Improving
+##  Currently Improving
 
 - Designing scalable backend systems
 - Dockerizing backend applications
@@ -59,9 +57,9 @@ I enjoy working close to the system level — building backend services, managin
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 Email: *kadiryilmaz0136@gmail.com*  
-💼 LinkedIn: https://www.linkedin.com/in/kadir-yilmaz-302693218  
-📍 Location: Türkiye
+ Email: *kadiryilmaz0136@gmail.com*  
+ LinkedIn: https://www.linkedin.com/in/kadir-yilmaz-302693218  
+ Location: Türkiye
 
