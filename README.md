@@ -1,6 +1,6 @@
 #  Hi, I'm Kadir (@kadadana)
 
-I'm a **Computer Engineering student** with a strong focus on **Backend Development** and **DevOps-oriented systems**.
+I'm a **Computer Engineering** with a strong focus on **Backend Development** and **DevOps-oriented systems**.
 
 I enjoy working close to the system level — building backend services, managing databases, and understanding how applications run in real environments.
 
